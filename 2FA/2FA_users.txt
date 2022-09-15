@@ -1,5 +1,5 @@
-Chris Wayne Weaver,12345678,36,5378,kendik,QWERTY!"œ$%^&*1111,
-David Stephen Jones,25874136,44,3616,Gemini22,12345678!"œ$%^&*DDDD,
+Chris Wonka,12345678,36,5378,kendik,QWERTY!"Å“$%^&*1111,
+David Stephen Jones,25874136,44,3616,Gemini22,12345678!"Å“$%^&*DDDD,
 Heldon may bee,7894561,74,7329,username_null,password_null,
 Ched Exodus Planter,12345678,25,8364,username_null,password_null,
 toast master mangel,12547896,78,3522,username_null,password_null,
